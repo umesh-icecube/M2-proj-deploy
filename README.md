@@ -1,1 +1,1 @@
-# M2-proj-deploy-development by Umesh Ta
+# M2-proj-deploy-development by UMesh
