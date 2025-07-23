@@ -1,1 +1,2 @@
 merge-to-production.sh
+app/etc/env.php
